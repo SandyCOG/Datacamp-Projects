@@ -11,8 +11,7 @@
    - Which country owns the maximum amount of debt and what does that amount look like?
    - What is the average amount of debt owed by countries across different debt indicators?
 4. [Analyzing TV Data](https://github.com/SandyCOG/Datacamp-projects/tree/main/Analyzing%20TV%20Data): Analysis of TV data and halftime shows data merged together. The aim of this analysis was to find out how viewership, TV ratings, and ad cost have evolved over time as well as find out who are some of the most prolific musicians in terms of halftime show performances?
-5. [Dr. Simmelweis and the Discovery of Handwashing](https://github.com/SandyCOG/Datacamp-projects/tree/main/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing):
-6. 
+5. [Dr. Simmelweis and the Discovery of Handwashing](https://github.com/SandyCOG/Datacamp-projects/tree/main/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing): Dr Simmelweis was an Hungarian physician who introduced the concept of handwashing. This project analyzes the proportion of deaths to births over time and how this proportion reduced with the introduction of handwashing.
 7. [The Android App Market on Google Play](https://github.com/SandyCOG/Datacamp-projects/tree/main/The%20Android%20App%20Market%20on%20Google%20Play)
 8. [The Github History of the Scala Language](https://github.com/SandyCOG/Datacamp-projects/tree/main/The%20GitHub%20History%20of%20the%20Scala%20Language)
 9. [Give Life: Predicting Blood donations](https://github.com/SandyCOG/Datacamp-projects/tree/main/Give%20Life:%20Predict%20blood%20donations)
